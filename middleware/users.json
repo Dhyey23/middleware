@@ -1,0 +1,16 @@
+{
+    "mydata": [
+        {
+            "userName": "dhyey_patel",
+            "fullName": "Dhyey Patel",
+            "email": "dhyey@gmail.com",
+            "phoneNumber": 8160895719
+        },
+        {
+            "userName": "het_patel",
+            "fullName": "Dhyey Patel",
+            "email": "het@gmail.com",
+            "phoneNumber": 8160895719
+        }
+    ]
+}
